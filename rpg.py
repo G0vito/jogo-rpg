@@ -66,3 +66,5 @@ if escolha2 == '1':
     animafrase('OBRIGADO POR TERES LUTADO AO NOSSO LADO... ESPERO VOLTAR A VER-TE')
 elif escolha2 == '2':
     animafrase('É UM PRAZER QUE VOLTES A LUTAR AO NOSSO LADO...')
+#aceito ideias para continuar a história
+#I accept ideas to continue the story
